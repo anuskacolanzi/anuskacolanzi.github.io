@@ -76,7 +76,7 @@ text-decoration: none;
 .slicknav_menu  .slicknav_menutxt {font-size: 0.80rem; color: white;}
 .slicknav_menu {background-color: #9db4c0;}
 
-li:hover {background-color: #c2dfe3; color: #253237;}
+li:hover {background-color: #9db4c0; color: #253237;}
 
 #menu {display: none;}
 #mobilemenu {display: block;}
